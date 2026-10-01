@@ -1,0 +1,26 @@
+{
+  "name": "67 проверенных прокси Telegram — Прокси Сводка, 15:33 МСК",
+  "short_name": "Прокси Сводка",
+  "description": "Прокси Сводка — свежая сводка MTProxy: 67 серверов с подтверждённой доступностью. Бесплатно, без программ, кнопка «Подключить» открывает Telegram.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fbf6f4",
+  "theme_color": "#9d4425",
+  "lang": "ru",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
